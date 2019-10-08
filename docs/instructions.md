@@ -4,7 +4,7 @@ layout: tabbed-assignment
 
 # Instructions
 
-1. Start by making a fork of the [{{site.data.assignment.starter-code-name}}][starter-code] repository, this gives you a copy of your own to work with.
+1. Start by making a fork of the [{{site.data.assignment.starter-code-name}}][starter-code-url] repository, this gives you a copy of your own to work with.
 1. To work with the {{site.data.assignment.starter-code-name}} repository, you will need a copy on your computer. Git calls this step _cloning_.
 1. 
 
@@ -13,4 +13,5 @@ layout: tabbed-assignment
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
 [slides]: <{{site.data.assignment.slides}}>
+[starter-code-url]: <{{site.data.assignment.starter-code-url}}>
 [template]: <{{site.data.assignment.template}}>
