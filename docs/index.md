@@ -6,7 +6,11 @@ layout: tabbed-assignment
 
 <img class="overview-image" src="assets/images/screen-capture.png">
 
-The last steps of getting ready to work with Git and GitHub are to install the GitHub desktop client, [GitHub Desktop][gh-desktop], and then to _clone_ (download) the starting code.
+The last steps of getting ready to work with Git and GitHub are to:
+* install the GitHub desktop client, [GitHub Desktop][gh-desktop], and then
+* to _clone_ (download) the starting code.
+
+We'll do that now.
 
 [gh-desktop]: <https://desktop.github.com>
 
