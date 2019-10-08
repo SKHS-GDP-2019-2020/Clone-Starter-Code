@@ -6,7 +6,13 @@ layout: tabbed-assignment
 
 <img class="overview-image" src="assets/images/screen-capture.png">
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+The last steps of getting ready to work with Git and GitHub are to:
+* install the GitHub desktop client, [GitHub Desktop][gh-desktop], and then
+* to _clone_ (download) the starting code.
+
+We'll do that now.
+
+[gh-desktop]: <https://desktop.github.com>
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
