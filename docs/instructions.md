@@ -4,9 +4,9 @@ layout: tabbed-assignment
 
 # Instructions
 
-1. This, then
-1. That, and finally
-1. The other thing
+1. Start by making a fork of the [{{site.data.assignment.starter-code-name}}][starter-code] repository, this gives you a copy of your own to work with.
+1. To work with the {{site.data.assignment.starter-code-name}} repository, you will need a copy on your computer. Git calls this step _cloning_.
+1. 
 
 ## Notes
 
