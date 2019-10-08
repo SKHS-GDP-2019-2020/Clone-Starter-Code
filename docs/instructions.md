@@ -22,8 +22,6 @@ layout: tabbed-assignment
 
 All that is left is to submit your work. Go to the **Submission** tab and do that.
 
-## Notes
-
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
 [slides]: <{{site.data.assignment.slides}}>
