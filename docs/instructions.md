@@ -17,8 +17,9 @@ layout: tabbed-assignment
 1. Select the folder where you want to clone the **{{site.data.assignment.starter-code-name}}** repository. The default on Windows in C:\GitHub. It is fine to accept the default.
 
    The reason it is ok to accept the default is that you are going to be pushing your changes to GitHub regularly. So the risk if losing work on the C: drive is reduced. In exchange you will get better performance from Unity.
-1. Clone the repository.
-1. Make a branch.
+1. Clone the repository. The first time you clone with GitHub Desktop on a computer you will need to edit the Git configuration. Otherwise our firewall will trip you up. Using Git Bash enter this command:
+   ```git config --global http.sslverify false```
+1. Make a branch named **step-1** - having a common naming pattern for our branches will make it easier to talk about where we are in the project.
 
 All that is left is to submit your work. Go to the **Submission** tab and do that.
 
