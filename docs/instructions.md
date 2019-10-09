@@ -18,6 +18,7 @@ layout: tabbed-assignment
 
    The reason it is ok to accept the default is that you are going to be pushing your changes to GitHub regularly. So the risk if losing work on the C: drive is reduced. In exchange you will get better performance from Unity.
 1. Clone the repository. The first time you clone with GitHub Desktop on a computer you will need to edit the Git configuration. Otherwise our firewall will trip you up. Using Git Bash enter this command:
+
    ```git config --global http.sslverify false```
 1. Make a branch named **step-1** - having a common naming pattern for our branches will make it easier to talk about where we are in the project.
 
