@@ -14,7 +14,7 @@ layout: tabbed-assignment
    - GitHub Desktop does not install globally (for all users), this is why you can install it. But this also means that you will have to do this anytime you are using a new computer.
 1. GitHub Desktop will launch.
 1. Sign in to your GitHub account.
-1. Select the folder where you want to clone the **{{site.data.assignment.starter-code-name}}** repository. The default on Windows in C:\GitHub. It is fine to accept the default.
+1. Select the folder where you want to clone the **{{site.data.assignment.starter-code-name}}** repository. I recommend putting your GitHub repositories in a folder named GitHub on your desktop (e.g., C:\Users\<your login name>\Desktop\GitHub). 
 
    The reason it is ok to accept the default is that you are going to be pushing your changes to GitHub regularly. So the risk if losing work on the C: drive is reduced. In exchange you will get better performance from Unity.
 1. Clone the repository. The first time you clone with GitHub Desktop on a computer you will need to edit the Git configuration. Otherwise our firewall will trip you up. Using Git Bash enter this command:
