@@ -4,6 +4,7 @@ layout: tabbed-assignment
 
 # Instructions
 
+1. Start by creating a folder called **GitHub** on your **Desktop**. Then navigate to that folder and create a folder in it called **{{site.data.assignment.folder-name}}**. We will use this folder when we _clone_ the repository holding our starter code from GitHub.
 1. The first time you clone with GitHub Desktop on a computer you will need to edit the Git configuration. Otherwise our firewall will trip you up. Using Git Bash enter this command:
 
    ```git config --global http.sslverify false```
@@ -17,7 +18,8 @@ layout: tabbed-assignment
    - GitHub Desktop does not install globally (for all users), this is why you can install it. But this also means that you will have to do this anytime you are using a new computer.
 1. GitHub Desktop will launch.
 1. Sign in to your GitHub account.
-1. Select the folder where you want to clone the **{{site.data.assignment.starter-code-name}}** repository. I recommend putting your GitHub repositories in a folder named GitHub on your desktop (e.g., C:\Users\<your login name>\Desktop\GitHub). 
+1. Under **Your Repositories** select 
+1. For the **Local Path,** click on the **Choose** button and navigate to the folder you created is step 1 (e.g., C:\Users\<your login name>\Desktop\GitHub\{{site.data.assignment.folder-name}}). 
 
    The reason it is ok to accept the default is that you are going to be pushing your changes to GitHub regularly. So the risk if losing work on the C: drive is reduced. In exchange you will get better performance from Unity.
 1. Clone the repository.
