@@ -10,9 +10,9 @@ layout: tabbed-assignment
    - A terminal window will open running the **Bash** shell (a shell is a program that executes commands that you type).
    - In Git Bash type this command:
 
-   ```bash
-   git config --global http.sslverify false
-   ```
+      ```bash
+      git config --global http.sslverify false
+      ```
    - Proofread and if it is right, hit the **Enter** key to run the command. If you need to make changes you can use the arrow keys to move around and edit what you typed.
    - Any output from the command indicates an error – most likely a typo, proofread again. You can use the up arrow key to move back through your command history.
 1. Start by making a _fork_ of the **[{{site.data.assignment.starter-code-org}}/{{site.data.assignment.starter-code-repo}}][starter-code-url]** repository, this gives you a copy of your own to work with.
