@@ -15,10 +15,10 @@ layout: tabbed-assignment
       ```
    - Proofread and if it is right, hit the **Enter** key to run the command. If you need to make changes you can use the arrow keys to move around and edit what you typed.
    - Any output from the command indicates an error – most likely a typo, proofread again. You can use the up arrow key to move back through your command history.
-1. Start by making a _fork_ of the **[{{site.data.assignment.starter-code-org}}/{{site.data.assignment.starter-code-repo}}][starter-code-url]** repository, this gives you a copy of your own to work with.
-1. To work with your fork of the **{{site.data.assignment.starter-code-repo}}** repository, you will need a copy on your computer. Git calls this step _cloning_. Start by finding the green **Clone or Download** button.
+1. Next, in your borowser, click on the link to go to the starter code repository on GitHub **[{{site.data.assignment.starter-code-org}}/{{site.data.assignment.starter-code-repo}}][starter-code-url].** When you get there find the **Fork** button at click on it to your own copy of the code.
+1. To work with your fork of the **{{site.data.assignment.starter-code-repo}}** repository in Unity, you will need a copy on your computer. Git calls this step _cloning_. Start by finding the green **Clone or Download** button.
 1. Click on the **Clone or Download** button and select the **Open in Desktop** option.
-   - Since you probably haven't used GitHub Desktop on this computer before you will be taken to the GitHub Desktop download page.
+   - Since you probably haven't used GitHub Desktop on this computer before, this will take you to the GitHub Desktop download page.
    - Go ahead and download the Windows 64-bit version.
    - After GitHub Desktop downloads double-click on the dowloaded file in the lower left corner of your browser window.
    - Run the installer.
