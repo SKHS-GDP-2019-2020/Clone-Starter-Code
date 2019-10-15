@@ -5,7 +5,7 @@ layout: tabbed-assignment
 # Instructions
 
 1. Start by using the **File Explorer** to create a folder called **GitHub** on your **Desktop**. Then, open that folder and create a folder called **{{site.data.assignment.local-path}}**. We will use this folder when we _clone_ the repository holding our starter code from GitHub.
-1. The first time you clone with GitHub Desktop on a computer you will need to edit the Git configuration. Otherwise our firewall will trip you up.
+1. Before you can clone from GitHub to a computer you will need to edit the Git configuration. Otherwise the SKSD firewall will trip you up. So:
    - Right-click in **File Explorer** and choose **Git Bash Here** from the context menu.
    - A terminal window will open running the **Bash** shell (a shell is a program that executes commands that you type).
    - In Git Bash type this command:
@@ -15,6 +15,7 @@ layout: tabbed-assignment
       ```
    - Proofread and if it is right, hit the **Enter** key to run the command. If you need to make changes you can use the arrow keys to move around and edit what you typed.
    - Any output from the command indicates an error – most likely a typo, proofread again. You can use the up arrow key to move back through your command history.
+   - You only have to do this once on a computer – but you will have to do it each time you try to _clone_, _fetch_, or _push_ changes back to GitHub on a new computer.
 1. Next, in your borowser, click on the link to go to the starter code repository on GitHub **[{{site.data.assignment.starter-code-org}}/{{site.data.assignment.starter-code-repo}}][starter-code-url].** When you get there find the **Fork** button at click on it to your own copy of the code.
 1. To work with your fork of the **{{site.data.assignment.starter-code-repo}}** repository in Unity, you will need a copy on your computer. Git calls this step _cloning_. Start by finding the green **Clone or Download** button.
 1. Click on the **Clone or Download** button and select the **Open in Desktop** option.
