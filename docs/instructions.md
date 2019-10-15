@@ -4,10 +4,17 @@ layout: tabbed-assignment
 
 # Instructions
 
-1. Start by creating a folder called **GitHub** on your **Desktop**. Then navigate to that folder and create a folder in it called **{{site.data.assignment.local-path}}**. We will use this folder when we _clone_ the repository holding our starter code from GitHub.
-1. The first time you clone with GitHub Desktop on a computer you will need to edit the Git configuration. Otherwise our firewall will trip you up. Using Git Bash enter this command:
+1. Start by using the **File Explorer** to create a folder called **GitHub** on your **Desktop**. Then, open that folder and create a folder called **{{site.data.assignment.local-path}}**. We will use this folder when we _clone_ the repository holding our starter code from GitHub.
+1. The first time you clone with GitHub Desktop on a computer you will need to edit the Git configuration. Otherwise our firewall will trip you up.
+   - Right-click in **File Explorer** and choose **Git Bash Here** from the context menu.
+   - A terminal window will open running the **Bash** shell (a shell is a program that executes commands that you type).
+   - In Git Bash type this command:
 
-   ```git config --global http.sslverify false```
+   ```bash
+   git config --global http.sslverify false
+   ```
+   - Proofread and if it is right, hit the **Enter** key to run the command. If you need to make changes you can use the arrow keys to move around and edit what you typed.
+   - Any output from the command indicates an error – most likely a typo, proofread again. You can use the up arrow key to move back through your command history.
 1. Start by making a _fork_ of the **[{{site.data.assignment.starter-code-org}}/{{site.data.assignment.starter-code-repo}}][starter-code-url]** repository, this gives you a copy of your own to work with.
 1. To work with your fork of the **{{site.data.assignment.starter-code-repo}}** repository, you will need a copy on your computer. Git calls this step _cloning_. Start by finding the green **Clone or Download** button.
 1. Click on the **Clone or Download** button and select the **Open in Desktop** option.
